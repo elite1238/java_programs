@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class letterpatterns {
     public static void main(String[] args) {
-        int n,i,k,j,a=0,b=0;
+        int n,i,k,j;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter n : ");
         n=sc.nextInt();
